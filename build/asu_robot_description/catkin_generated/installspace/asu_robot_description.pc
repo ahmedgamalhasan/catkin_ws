@@ -1,0 +1,8 @@
+prefix=/home/ahmed2/catkin_ws/install
+
+Name: asu_robot_description
+Description: Description of asu_robot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

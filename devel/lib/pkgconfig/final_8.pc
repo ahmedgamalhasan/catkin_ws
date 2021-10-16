@@ -1,0 +1,8 @@
+prefix=/home/ahmed2/catkin_ws/devel
+
+Name: final_8
+Description: Description of final_8
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

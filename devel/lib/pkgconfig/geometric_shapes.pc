@@ -1,0 +1,8 @@
+prefix=/home/ahmed2/catkin_ws/devel
+
+Name: geometric_shapes
+Description: Description of geometric_shapes
+Version: 0.7.3
+Cflags: -I/home/ahmed2/catkin_ws/src/geometric_shapes/include -I/usr/include/eigen3 -I/usr/include
+Libs: -L${prefix}/lib -lgeometric_shapes /usr/lib/x86_64-linux-gnu/liboctomap.so /usr/lib/x86_64-linux-gnu/liboctomath.so /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+Requires: eigen_stl_containers random_numbers shape_msgs visualization_msgs

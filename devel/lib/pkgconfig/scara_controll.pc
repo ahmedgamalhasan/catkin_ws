@@ -1,0 +1,8 @@
+prefix=/home/ahmed2/catkin_ws/devel
+
+Name: scara_controll
+Description: Description of scara_controll
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

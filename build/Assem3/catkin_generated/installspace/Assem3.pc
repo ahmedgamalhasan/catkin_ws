@@ -1,0 +1,8 @@
+prefix=/home/ahmed2/catkin_ws/install
+
+Name: Assem3
+Description: Description of Assem3
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

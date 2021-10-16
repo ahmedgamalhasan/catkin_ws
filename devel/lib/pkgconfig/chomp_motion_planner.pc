@@ -1,0 +1,8 @@
+prefix=/home/ahmed2/catkin_ws/devel
+
+Name: chomp_motion_planner
+Description: Description of chomp_motion_planner
+Version: 1.1.5
+Cflags: -I/home/ahmed2/catkin_ws/src/moveit/moveit_planners/chomp/chomp_motion_planner/include
+Libs: -L${prefix}/lib -lchomp_motion_planner
+Requires: 

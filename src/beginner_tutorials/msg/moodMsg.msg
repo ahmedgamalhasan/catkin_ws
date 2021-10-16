@@ -1,0 +1,9 @@
+Header header
+int64 mood
+float64 theta_1
+float64 theta_2
+float64 theta_3
+float64 theta_4
+float64 x
+float64 y
+float64 theta
